@@ -18,7 +18,7 @@ def assembled_aoh
   { name:  "Bruce Green", occupation: "Fan of Mildred" }
   ]
   
-assembled_aoh
+assembled_aoh(result)
 end
 
 def literal_aoh
